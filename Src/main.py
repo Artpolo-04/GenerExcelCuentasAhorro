@@ -4,11 +4,6 @@ from recorrerCarpetas import procesar_archivos_xlsm
 #from OrganizaciónDeCarpetas import rename_long_filenames
 
 def main():
-    '''
-    # Llama a una funcion que cambia el nombre de los excel en caso de ser muy largos
-    
-    rename_long_filenames(ruta_principal)
-    '''
     ruta_principal = 'CarpetasPlantillasDesgloce'
 
 
